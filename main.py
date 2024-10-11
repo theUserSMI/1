@@ -1,0 +1,21 @@
+# 1
+s1 = input("")
+s2 = input("")
+s3 = input("")
+print(s3)
+print(s2)
+print(s1)
+# 2
+print("1 bit is the minimum unit of information.")
+print("1 byte = 8 bits.")
+print("1 Kilobit = 1024 bits.")
+print("1 Kilobyte = 1024 bytes.")
+print(f"1 Kilobyte = {1024 * 8} bits.")
+# 3
+name = input("")
+surname = input("")
+animal = input("")
+zodiac = input("")
+print(f"Individual horoscope for the user {name} {surname}")
+print(f"In a previous life you were: {animal}")
+print(f"Your zodiac sign - {zodiac} , you are a sensitive nature.")
